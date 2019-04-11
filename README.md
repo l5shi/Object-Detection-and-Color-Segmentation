@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-python-orange.svg)
+
 # Object-Detection-and-Color-Segmentation
 
 ![original image](./unlabel.png)  
