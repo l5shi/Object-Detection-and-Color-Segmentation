@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
-[![](https://img.shields.io/badge/联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
+[![](https://img.shields.io/badge/常联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 # Object-Detection-and-Color-Segmentation
 
 ![original image](./unlabel.png)  
